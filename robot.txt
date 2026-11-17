@@ -3,4 +3,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://shivanshrt.github.io/shivanshranjantripathi/sitemap.xml
+Sitemap: https://shivanshrt.github.io/shivanshrt/sitemap.xml
